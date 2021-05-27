@@ -21,6 +21,6 @@ This is a python project to change the background of an image and to insert anot
 
 5. Install requirements
 
-`pip install -r Requirements.txt`
+`pip install -r requirements.txt`
 
 6. Open the file `Change Background.ipynb` in JupyterNotebook and run the cells.
